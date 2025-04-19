@@ -1,0 +1,27 @@
+name: one_time_executor_example
+description: OneTimeExecutor 패키지 예제 앱
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  one_time_executor: ^0.0.1
+  one_time_executor_shared_preferences: ^0.0.1
+  one_time_executor_hive: ^0.0.1
+  one_time_executor_secure_storage: ^0.0.1
+  cupertino_icons: ^1.0.6
+  hive: ^2.2.3
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

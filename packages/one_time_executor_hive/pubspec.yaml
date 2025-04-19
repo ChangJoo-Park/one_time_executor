@@ -1,0 +1,20 @@
+name: one_time_executor_hive
+description: Hive adapter for one_time_executor package
+version: 0.0.1
+repository: https://github.com/yourusername/one_time_executor
+homepage: https://github.com/yourusername/one_time_executor
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  one_time_executor: ^0.0.1
+  hive: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

@@ -1,0 +1,20 @@
+name: one_time_executor
+description: "패키지는 사용자가 특정 작업을 앱 라이프사이클 중 한 번만 실행하도록 보장하는 기능을 제공합니다."
+version: 0.0.1
+repository: https://github.com/yourusername/one_time_executor
+homepage: https://github.com/yourusername/one_time_executor
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  mockito: ^5.4.4
+  build_runner: ^2.4.8
