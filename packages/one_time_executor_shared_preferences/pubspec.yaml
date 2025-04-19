@@ -1,8 +1,8 @@
 name: one_time_executor_shared_preferences
 description: SharedPreferences adapter for one_time_executor package
 version: 0.0.1
-repository: https://github.com/yourusername/one_time_executor
-homepage: https://github.com/yourusername/one_time_executor
+repository: https://github.com/changjoo-park/one_time_executor
+homepage: https://github.com/changjoo-park/one_time_executor
 
 environment:
   sdk: ^3.7.2

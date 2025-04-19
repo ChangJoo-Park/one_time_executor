@@ -1,6 +1,6 @@
 # OneTimeExecutor Secure Storage Adapter
 
-이 패키지는 [one_time_executor](https://github.com/yourusername/one_time_executor) 패키지에서 사용할 수 있는 Flutter Secure Storage 어댑터를 제공합니다.
+이 패키지는 [one_time_executor](https://github.com/changjoo-park/one_time_executor) 패키지에서 사용할 수 있는 Flutter Secure Storage 어댑터를 제공합니다.
 
 ## 설치
 
