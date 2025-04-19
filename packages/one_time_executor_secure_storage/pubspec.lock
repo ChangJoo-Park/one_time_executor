@@ -195,9 +195,10 @@ packages:
   one_time_executor:
     dependency: "direct main"
     description:
-      path: "../.."
-      relative: true
-    source: path
+      name: one_time_executor
+      sha256: d896be47a5eafda3319c3d878505ac1e85fbd7b5a26354dc6a1baa40c23bdb59
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   path:
     dependency: transitive
